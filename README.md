@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I am Xia Qiuchu
+
+- 🌱 I’m currently learning Java,C#
+
+
+- Good Morning, and in case I don't see you, good afternoon, good evening, and good night!
 
 <!--
 **xiaqiuchu/xiaqiuchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
