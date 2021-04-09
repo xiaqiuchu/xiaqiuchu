@@ -1,6 +1,7 @@
-### Hi I am Xia Qiuchu
+### 你好, 我是夏秋初
 
-- 🌱 I’m currently learning Java,C#
+- 🌱 我现在正在学习 Java,C#
+- 🔭 我正在研究 Spring boot 框架
 
 
 ### Good Morning, and in case I don't see you, good afternoon, good evening, and good night!
